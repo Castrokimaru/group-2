@@ -1,5 +1,4 @@
-clas
-s BankAccount:
+class BankAccount:
     bank_name = "Equity Bank"
 
     def __init__(self, owner):
